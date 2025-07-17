@@ -9,10 +9,11 @@
 </p>
 
 
-##novas funções implementadas em calculadora 2.0
+## novas funções implementadas em calculadora 2.0
 
 - Visual dos botões melhorados
 - Edição da expressão melhorada
+- Responsividade melhorada
 
 ## em desenvolvimento
 
@@ -20,4 +21,8 @@
 
 ---
 
+Bom dia amigos, meu nome é Elvis e eu sonho em trabalhar com desenvolvimento mobile,IoT e robótica. Busco por meio do flutter,
+ não só criar aplicativos interessantes, mas também integrá-los com um sistema embarcado
+
+---
 Tudo isso feito em flutter, o melhor framework para desenvolvimento mobile
