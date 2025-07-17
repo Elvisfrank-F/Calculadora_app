@@ -22,7 +22,7 @@
 ---
 
 Bom dia amigos, meu nome é Elvis e eu sonho em trabalhar com desenvolvimento mobile,IoT e robótica. Busco por meio do flutter,
- não só criar aplicativos interessantes, mas também integrá-los com um sistema embarcado
-
+ não só criar aplicativos interessantes, mas também integrá-los com um sistema embarcado. O código do projeto está em outro arquivo chamado "calculadora".
+                      
 ---
 Tudo isso feito em flutter, o melhor framework para desenvolvimento mobile
