@@ -1,6 +1,6 @@
 # Calculadora_app
 
-<img src="assets/ap.png" width"300"/>
+<img src="assets/ap.png" width='300'/>
 
 ##novas funções implementadas em calculadora 2.0
 
