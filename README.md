@@ -1,6 +1,13 @@
 # Calculadora_app
 
-<img src="assets/ap.png" width='300'/>
+<p align="center">
+  <strong>Antes</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Depois</strong><br><br>
+  <img src="assets/ap_antes.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/ap.png" width="250"/>
+</p>
+
 
 ##novas funções implementadas em calculadora 2.0
 
